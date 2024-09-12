@@ -60,7 +60,7 @@ const Game = () => {
 
   return (
     <div className="container text-center">
-      <h1 ref={titleRef} className="title pt-[50px] text-[60px] text-white flex justify-center items-center">
+      <h1 ref={titleRef} className="title pt-[10px] text-[60px] text-white flex justify-center items-center">
         Tic Tac Toe Game In
         <span className="pl-[15px] text-[#26ffcb]">React</span>
       </h1>

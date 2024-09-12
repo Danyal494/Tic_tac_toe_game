@@ -8,7 +8,7 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-<div className='bg-[#0f1B21] h-screen'>
+<div className='bg-[#0f1B21] '>
 <Game/>
 </div>
   )
